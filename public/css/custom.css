@@ -1,0 +1,16 @@
+body{
+    margin : 100px;
+}
+.exchangeContainer{
+    width: 50%;
+    margin: 5% 25% 0 25%;
+}
+.exchangeTable{
+    border: 2px solid grey;
+}
+.exchangeTable td, .exchangeTable th{
+    border: 2px solid grey;
+}
+.exchangeTitle{
+    text-align: center;
+}
